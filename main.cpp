@@ -1,10 +1,12 @@
 #include"Alloc.h"
+#include"MyList.h"
 
 int main()
 {
+	
 	try
 	{
-		test2();
+		testList();
 	}
 	catch (exception& e)
 	{
